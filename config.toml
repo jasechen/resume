@@ -7,9 +7,9 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 
 [params]
-enable = false
-#author = "CowboySmall"
-#description = "DevResume - Bootstrap 4 Resume/CV Template For Software Developers"
+enable = true
+author = "CowboySmall"
+description = "DevResume - Bootstrap 4 Resume/CV Template For Software Developers"
 
 primaryColor = "#54B689"
 textPrimaryColor = "#292929"
@@ -36,11 +36,10 @@ icon = "fas fa-envelope-square"
 url = "mailto:#"
 text = "jase.chen@gmail.com"
 
-#[[params.contact.list]]
-#enable=false
-#icon = "fas fa-globe"
-#url = "#"
-#text = ""
+[[params.contact.list]]
+icon = "fas fa-globe"
+url = "#jasechen.tw"
+text = "JCTalk"
 
 
 [params.skills]
@@ -85,7 +84,7 @@ dates = "1996 - 2000"
 
 
 [params.awards]
-enable = false
+enable = true
 
 [[params.awards.list]]
 name = "Award Lorem Ipsum"
@@ -94,7 +93,7 @@ date = "2019"
 
 
 [params.languages]
-enable = false
+enable = true
 
 [[params.languages.list]]
 name = "English"
@@ -175,7 +174,7 @@ details = "Role description goes here ipsum dolor sit amet, consectetuer adipisc
 
 
 [params.projects]
-enable = false
+enable = true
 
 [[params.projects.list]]
 title = "Project Lorem Ipsum"
@@ -195,7 +194,7 @@ tagline = "You can use this section for your side projects. Cras dapibus. Vivamu
 
 
 [params.information]
-enable = false
+enable = true
 
 [[params.information.list]]
 title = "Papers"
