@@ -1,8 +1,8 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://jasechen.github.io/resume'
+languageCode = 'zh-tw'
+title = 'Resume of Jase Chen'
 
-theme = "hugo-devresume-theme"
+theme = "devresume"
 googleAnalytics = "UA-XXXXXXX-Y"
 
 
