@@ -38,8 +38,8 @@ text = "jase.chen@gmail.com"
 
 [[params.contact.list]]
 icon = "fas fa-globe"
-url = "#jasechen.tw"
-text = "JCTalk"
+url = "https://jctalk.today"
+text = "jctalk.today"
 
 
 [params.skills]
