@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae4cd7f3-2ecb-4fb4-bdc7-96db5349ad00" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/devresume" beforeDir="false" afterPath="$PROJECT_DIR$/themes/devresume" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/devresume/assets/scss/bootstrap/scss/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/devresume/assets/scss/bootstrap/scss/_variables.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/devresume/assets/scss/devresume.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/devresume/assets/scss/devresume.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/devresume/layouts/partials/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/devresume/layouts/partials/head.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/devresume/layouts/partials/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/devresume/layouts/partials/profile.html" afterDir="false" />
@@ -26,11 +24,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/themes/devresume/assets/scss/devresume.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="141" column="5" lean-forward="true" selection-start-line="141" selection-start-column="5" selection-end-line="141" selection-end-column="5" />
+            <state relative-caret-position="163">
+              <caret line="128" column="23" lean-forward="true" selection-start-line="128" selection-start-column="23" selection-end-line="128" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -38,8 +36,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/devresume/assets/scss/bootstrap/scss/_variables.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="270" lean-forward="true" selection-start-line="270" selection-end-line="270" />
+            <state relative-caret-position="368">
+              <caret line="277" column="56" lean-forward="true" selection-start-line="277" selection-start-column="56" selection-end-line="277" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -76,11 +74,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/devresume/layouts/partials/profile.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" column="109" lean-forward="true" selection-start-line="3" selection-start-column="109" selection-end-line="3" selection-end-column="109" />
+            <state relative-caret-position="115">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -108,10 +106,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/themes/devresume/layouts/partials/head.html" />
-        <option value="$PROJECT_DIR$/themes/devresume/assets/scss/bootstrap/scss/_variables.scss" />
         <option value="$PROJECT_DIR$/config.toml" />
         <option value="$PROJECT_DIR$/themes/devresume/layouts/partials/profile.html" />
         <option value="$PROJECT_DIR$/themes/devresume/assets/scss/devresume.scss" />
+        <option value="$PROJECT_DIR$/themes/devresume/assets/scss/bootstrap/scss/_variables.scss" />
       </list>
     </option>
   </component>
@@ -221,12 +219,12 @@
       <option name="presentableId" value="Default" />
       <updated>1644913980703</updated>
       <workItem from="1644913982665" duration="602000" />
-      <workItem from="1645028103131" duration="3488000" />
+      <workItem from="1645028103131" duration="3584000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4090000" />
+    <option name="totallyTimeSpent" value="4186000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="141" y="131" width="1606" height="933" extended-state="0" />
@@ -288,24 +286,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/devresume/assets/scss/devresume.scss">
+    <entry file="file://$PROJECT_DIR$/themes/devresume/layouts/partials/profile.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="141" column="5" lean-forward="true" selection-start-line="141" selection-start-column="5" selection-end-line="141" selection-end-column="5" />
+        <state relative-caret-position="115">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/devresume/assets/scss/bootstrap/scss/_variables.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="270" lean-forward="true" selection-start-line="270" selection-end-line="270" />
+        <state relative-caret-position="368">
+          <caret line="277" column="56" lean-forward="true" selection-start-line="277" selection-start-column="56" selection-end-line="277" selection-end-column="56" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/devresume/layouts/partials/profile.html">
+    <entry file="file://$PROJECT_DIR$/themes/devresume/assets/scss/devresume.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="109" lean-forward="true" selection-start-line="3" selection-start-column="109" selection-end-line="3" selection-end-column="109" />
+        <state relative-caret-position="163">
+          <caret line="128" column="23" lean-forward="true" selection-start-line="128" selection-start-column="23" selection-end-line="128" selection-end-column="23" />
         </state>
       </provider>
     </entry>
