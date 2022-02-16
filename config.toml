@@ -17,7 +17,7 @@ textPrimaryColor = "#292929"
 
 [params.profile]
 enable = true
-name = "陳璽元"
+name = "陳 璽元"
 nickname = "Jase Chen"
 tagline = "Senior Backend Engineer"
 avatar = "avatar.png"
@@ -33,14 +33,8 @@ location = "Taipei, Taiwan"
 #text = "+886 952 969 228"
 
 [[params.contact.list]]
-icon = "fas fa-at-square"
-url = "https://jctalk.today"
-text = "Jase Chen"
-title = "Jase Chen"
-
-[[params.contact.list]]
 icon = "fas fa-envelope-square"
-url = "mailto:#"
+url = "mailto:jase.chen@gmail.com"
 text = "jase.chen@gmail.com"
 
 [[params.contact.list]]
@@ -48,11 +42,11 @@ icon = "fas fa-globe"
 url = "https://jctalk.today"
 text = "jctalk.today"
 
-#[[params.contact.list]]
-#icon = "fab fa-github-square"
-#url = "//github.com/jasechen"
-#text = "jasechen"
-#title = "jasechen"
+[[params.contact.list]]
+icon = "fab fa-github-square"
+url = "//github.com/jasechen"
+text = "jasechen"
+title = "jasechen"
 
 
 [params.skills]
