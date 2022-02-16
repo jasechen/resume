@@ -1,6 +1,6 @@
 baseURL = 'https://jasechen.github.io/resume/'
 languageCode = 'zh-tw'
-title = 'Resume of Jase Chen'
+title = 'Resume | Jase Chen'
 
 theme = "devresume"
 #googleAnalytics = "UA-XXXXXXX-Y"
@@ -8,8 +8,8 @@ theme = "devresume"
 
 [params]
 enable = true
-author = "CowboySmall"
-description = "DevResume - Bootstrap 4 Resume/CV Template For Software Developers"
+author = "Jase Chen"
+description = "Jase's Resume"
 
 primaryColor = "#54B689"
 textPrimaryColor = "#292929"
@@ -44,12 +44,6 @@ icon  = "fas fa-globe"
 url   = "https://jctalk.today"
 text  = "jctalk.today"
 title = "jctalk.today"
-
-[[params.contact.list]]
-icon  = "fab fa-github-square"
-url   = "//github.com/jasechen"
-text  = "jasechen"
-title = "jasechen"
 
 
 [params.skills]
