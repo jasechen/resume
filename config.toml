@@ -17,7 +17,8 @@ textPrimaryColor = "#292929"
 
 [params.profile]
 enable = true
-name = "陳璽元  Jase"
+name = "陳璽元"
+nickname = "Jase"
 tagline = "Senior Backend Engineer"
 avatar = "avatar.png"
 
