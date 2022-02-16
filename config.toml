@@ -33,6 +33,12 @@ location = "Taipei, Taiwan"
 #text = "+886 952 969 228"
 
 [[params.contact.list]]
+icon = "fas fa-at-square"
+url = "https://jctalk.today"
+text = "Jase Chen"
+title = "Jase Chen"
+
+[[params.contact.list]]
 icon = "fas fa-envelope-square"
 url = "mailto:#"
 text = "jase.chen@gmail.com"
@@ -42,11 +48,11 @@ icon = "fas fa-globe"
 url = "https://jctalk.today"
 text = "jctalk.today"
 
-[[params.contact.list]]
-icon = "fab fa-github-square"
-url = "//github.com/jasechen"
-text = "jasechen"
-title = "jasechen"
+#[[params.contact.list]]
+#icon = "fab fa-github-square"
+#url = "//github.com/jasechen"
+#text = "jasechen"
+#title = "jasechen"
 
 
 [params.skills]
