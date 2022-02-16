@@ -27,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/themes/devresume/assets/scss/devresume.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="163">
-              <caret line="128" column="23" lean-forward="true" selection-start-line="128" selection-start-column="23" selection-end-line="128" selection-end-column="23" />
+            <state relative-caret-position="276">
+              <caret line="123" column="12" lean-forward="true" selection-start-line="123" selection-start-column="12" selection-end-line="123" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -108,8 +108,8 @@
         <option value="$PROJECT_DIR$/themes/devresume/layouts/partials/head.html" />
         <option value="$PROJECT_DIR$/config.toml" />
         <option value="$PROJECT_DIR$/themes/devresume/layouts/partials/profile.html" />
-        <option value="$PROJECT_DIR$/themes/devresume/assets/scss/devresume.scss" />
         <option value="$PROJECT_DIR$/themes/devresume/assets/scss/bootstrap/scss/_variables.scss" />
+        <option value="$PROJECT_DIR$/themes/devresume/assets/scss/devresume.scss" />
       </list>
     </option>
   </component>
@@ -219,12 +219,12 @@
       <option name="presentableId" value="Default" />
       <updated>1644913980703</updated>
       <workItem from="1644913982665" duration="602000" />
-      <workItem from="1645028103131" duration="3584000" />
+      <workItem from="1645028103131" duration="3611000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4186000" />
+    <option name="totallyTimeSpent" value="4213000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="141" y="131" width="1606" height="933" extended-state="0" />
@@ -302,8 +302,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/devresume/assets/scss/devresume.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="128" column="23" lean-forward="true" selection-start-line="128" selection-start-column="23" selection-end-line="128" selection-end-column="23" />
+        <state relative-caret-position="276">
+          <caret line="123" column="12" lean-forward="true" selection-start-line="123" selection-start-column="12" selection-end-line="123" selection-end-column="12" />
         </state>
       </provider>
     </entry>
