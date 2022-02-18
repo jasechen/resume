@@ -1,3 +1,0 @@
-[submodule "themes/devresume"]
-	path = themes/devresume
-	url = git@github.com:jasechen/hugo-devresume-theme.git
