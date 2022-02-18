@@ -2,3 +2,4 @@
 .idea
 first-deploy.sh
 deploy.sh
+public/
