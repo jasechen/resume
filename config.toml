@@ -50,32 +50,20 @@ title = "jctalk.today"
 enable = true
 
 [[params.skills.list]]
-title = "Technical"
+title = "Operation System"
 [[params.skills.list.items]]
-details = "JavaScript/Angular/React/Vue"
+details = "Linux"
 [[params.skills.list.items]]
-details = "Python/Ruby/PHP"
+details = "BSD"
 [[params.skills.list.items]]
-details = "Node.js/ASP.NET"
+details = "MacOS"
 [[params.skills.list.items]]
-details = "PostgreSQL/MySQL"
-[[params.skills.list.items]]
-details = "Object-oriented design"
-[[params.skills.list.items]]
-details = "Design and implement database structures"
-[[params.skills.list.items]]
-details = "Lead and deliver complex software systems"
+details = "Windows-Family"
 
 [[params.skills.list]]
-title = "Professional"
+title = "Database"
 [[params.skills.list.items]]
-details = "Effective communication"
-[[params.skills.list.items]]
-details = "Team player"
-[[params.skills.list.items]]
-details = "Strong problem solver"
-[[params.skills.list.items]]
-details = "Good time management"
+details = "MySQL"
 
 
 [params.education]
